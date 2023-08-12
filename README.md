@@ -9,7 +9,7 @@ Pusty wiersz do skopiowania: <br>
 `| Imię | Inicjatywa | [LinkedIn]() | [YouTube]() | [www]() | C#, .NET |`
 
 ### ⚠ Zasady
-- Polski dotnetowiec, musi być z Polski i w większości tworzyć treści o dotnecie.
+- Polski dotnetowiec, musi być z Polski, lub tworzyć po polsku i w większości zajmować się dotnetem.
 - Dodawany twórca musi być aktywnym twórcą, a konkretniej mieć co najmniej jeden wpis/wideo/tekst opublikowany w ciągu ostatnich 2 lat.
 - Jeżeli ktoś ma starsze materiały, ale nadal ciekawe i warte uwagi, to można go umieścić w sekcji "Archiwum"
 
