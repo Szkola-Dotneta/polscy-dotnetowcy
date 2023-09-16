@@ -23,7 +23,7 @@ Pusty wiersz do skopiowania: <br>
 | Oskar Dudycz | Architecture Weekly | [LinkedIn](https://www.linkedin.com/in/oskardudycz/) | [YouTube](https://www.youtube.com/@event-driven) | [www](https://www.architecture-weekly.com/) | Event Sourcing |
 | Konrad Gadzina | Make Games Today | [LinkedIn](https://www.linkedin.com/in/fenixb3/) | [YouTube](https://www.youtube.com/c/MakeGamesToday) | [www](https://www.facebook.com/MakeGamesToday) | GameDev |
 | Piotr Gankiewicz | DevMentors | ✖ | [YouTube](https://www.youtube.com/@DevMentorsPL) | [www](https://devmentors.io/) | C#, .NET, Kursy |
-| Adam Głuch | | [LinkedIn](https://www.linkedin.com/in/adam-g%C5%82uch-b18561173/) | ✖ | [www](https://dotnetmentor.pl/) | C#, .NET |
+| Adam Głuch | .NET Mentor | [LinkedIn](https://www.linkedin.com/in/adam-g%C5%82uch-b18561173/) | ✖ | [www](https://dotnetmentor.pl/) | C#, .NET |
 | Mariusz Jurczenko | | ✖ | [YouTube](https://www.youtube.com/@MariuszJurczenko/videos) | [www](https://dev-hobby.pl/) | C#, .NET |
 | Dariusz Kacban | kursdotnet | [LinkedIn](https://www.linkedin.com/in/dariusz-kacban-a7b55a92/) | [YouTube](https://www.youtube.com/@kursdotnet) | [www](https://kursdotnet.pl/) | C#, .NET |
 | Adam Kamizelich | gotoit.pl | [LinkedIn](https://www.linkedin.com/in/adam-kamizelich) | [YouTube](https://www.youtube.com/channel/UCR-3WcAsd_E_bSsozmW164A) | [www](https://gotoit.pl/) | C#, .NET, Kursy |
