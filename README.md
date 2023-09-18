@@ -6,7 +6,7 @@ Poprzez twórców mamy na mysli entuzjastów, którzy tworzą treści na blogach
 ### ☘️ Jak rozwijać listę?
 Dodaj swoich ulubionych twórców (albo siebie), poprzez Pull Requesta. Proszę (zachowując kolejność alfabetyczną) dodać imię, nazwisko, bądź pseudonim, opcjonalnie też nazwę iniciatywy/marki pod którą ktoś publikuje treści, oraz linki do social mediów i stron.
 Pusty wiersz do skopiowania: <br>
-`| Imię | Inicjatywa | [LinkedIn]() | [YouTube]() | [www]() | C#, .NET |`
+`| Imię | Inicjatywa | [LinkedIn]() | [YouTube]() | [www]() | [blog]() | C#, .NET |`
 
 ### ⚠ Zasady
 - Polski dotnetowiec, musi być z Polski, lub tworzyć po polsku i w większości zajmować się dotnetem.
