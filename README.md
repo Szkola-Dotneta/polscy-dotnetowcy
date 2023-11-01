@@ -34,7 +34,7 @@ Pusty wiersz do skopiowania: <br>
 | Cezary Piątek | | [LinkedIn](https://www.linkedin.com/in/%F0%9F%9B%A0-cezary-pi%C4%85tek-373737185/) | [YouTube](https://www.youtube.com/@cezarypiatek1509) |  ✖ | [blog](https://cezarypiatek.github.io/) | C#, .NET |
 | Patryk Sładek | | ✖ | [YouTube](https://www.youtube.com/@PatrykSladekTech/videos) | ✖ | ✖ | C#, .NET |
 | Kazimierz Szpin | | [LinkedIn](https://www.linkedin.com/in/kazimierz-szpin/) | [YouTube](https://www.youtube.com/@ModestProgrammer) |  ✖ | [www](https://www.modestprogrammer.pl/) |C#, .NET, Kursy |
-| Cezary Walenciuk | ProgramistaPro | [LinkedIn](https://www.linkedin.com/in/cezary-walenciuk-35615644/) | [YouTube](https://www.youtube.com/@CezaryWalenciuk) | [www](https://cezarywalenciuk.pl/) | ✖ | C#, .NET |
+| Cezary Walenciuk | ProgramistaPro | [LinkedIn](https://www.linkedin.com/in/cezary-walenciuk/) | [YouTube](https://www.youtube.com/@CezaryWalenciuk) | [www](https://cezarywalenciuk.pl/) | ✖ | C#, .NET |
 | Michał Wilczyński | DevMentors | ✖ | [YouTube](https://www.youtube.com/@DevMentorsPL) | [www](https://devmentors.io/) | ✖ | C#, .NET, Kursy |
 | Albrecht Xerxes |  | ✖ | [YouTube](https://www.youtube.com/@WOjoElite) | [www](https://www.facebook.com/profile.php?id=100063622165371) | ✖ | C#, .NET |
 | Marek Zając | | [LinkedIn](https://www.linkedin.com/in/zajacmarek92/) | [YouTube](https://www.youtube.com/@zajacmarek) | ✖ | ✖ | C#, .NET |
