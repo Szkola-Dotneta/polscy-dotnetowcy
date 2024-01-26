@@ -44,6 +44,7 @@ Pusty wiersz do skopiowania: <br>
 |  | Kraków NET Developers Group | ✖ | [YouTube](https://www.youtube.com/@krakownetdevelopersgroup7840) | ✖ | ✖ | C#, .NET |
 |  | NET Programmer | ✖ | [YouTube](https://www.youtube.com/@net-programmer) | ✖ | ✖ | C#, .NET |
 |  | Spotkania Warszawskiej Grupy .NET | ✖ | [YouTube](https://www.youtube.com/@wgnet) | [www](https://www.meetup.com/WG-NET/) | ✖ | C#, .NET |
+|  | Trójmiejska Zawodowa GRUPA .NET (TG.NET) | ✖ | ✖ | [www](https://www.meetup.com/pl-PL/tg-net/) | ✖ | C#, .NET |
 |  | SzkołaProgramowania.com | ✖ | [YouTube](https://www.youtube.com/@szkolaprogramowaniacom) | [www](https://szkolaprogramowania.com/) | ✖ | C#, .NET |
 
 ## 👥 Archiwum
