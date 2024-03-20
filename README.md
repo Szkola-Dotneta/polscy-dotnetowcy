@@ -40,12 +40,13 @@ Pusty wiersz do skopiowania: <br>
 | Marek Zając | | [LinkedIn](https://www.linkedin.com/in/zajacmarek92/) | [YouTube](https://www.youtube.com/@zajacmarek) | ✖ | ✖ | C#, .NET |
 | Remigiusz Zalewski | | ✖ | [YouTube](https://www.youtube.com/@remigiuszzalewski) | ✖ | ✖ | C#, .NET |
 |  | Fabryka Twórców Gier | ✖ | [YouTube](https://www.youtube.com/@FabrykaTworcowGier/videos) | ✖ | ✖ | GameDev |
-|  | Grupa Wrocnet | [LinkedIn](https://www.linkedin.com/company/wroc%C5%82aw-net-user-group/) | [YouTube](https://www.youtube.com/@GrupaWrocnet) | [www](https://www.meetup.com/pl-PL/wrocnet/) | ✖ | C#, .NET |
-|  | Kraków NET Developers Group | ✖ | [YouTube](https://www.youtube.com/@krakownetdevelopersgroup7840) | ✖ | ✖ | C#, .NET |
+|  | Grupa Wrocnet | [LinkedIn](https://www.linkedin.com/company/wroc%C5%82aw-net-user-group/) | [YouTube](https://www.youtube.com/@GrupaWrocnet) | [www](https://www.meetup.com/pl-PL/wrocnet/) | ✖ | .NET User Group |
+|  | Kraków NET Developers Group | ✖ | [YouTube](https://www.youtube.com/@krakownetdevelopersgroup7840) | ✖ | ✖ | .NET User Group |
 |  | NET Programmer | ✖ | [YouTube](https://www.youtube.com/@net-programmer) | ✖ | ✖ | C#, .NET |
-|  | Spotkania Warszawskiej Grupy .NET | ✖ | [YouTube](https://www.youtube.com/@wgnet) | [www](https://www.meetup.com/WG-NET/) | ✖ | C#, .NET |
-|  | Trójmiejska Zawodowa GRUPA .NET (TG.NET) | [LinkedIn](https://www.linkedin.com/company/tri-city-professional-net-group/) | ✖ | [www](https://www.meetup.com/pl-PL/tg-net/) | ✖ | C#, .NET |
+|  | Spotkania Warszawskiej Grupy .NET | ✖ | [YouTube](https://www.youtube.com/@wgnet) | [www](https://www.meetup.com/WG-NET/) | ✖ | .NET User Group |
+|  | Trójmiejska Zawodowa GRUPA .NET (TG.NET) | [LinkedIn](https://www.linkedin.com/company/tri-city-professional-net-group/) | ✖ | [www](https://www.meetup.com/pl-PL/tg-net/) | ✖ | .NET User Group |
 |  | SzkołaProgramowania.com | ✖ | [YouTube](https://www.youtube.com/@szkolaprogramowaniacom) | [www](https://szkolaprogramowania.com/) | ✖ | C#, .NET |
+|  | Bydgoszcz .NET User Group  | [LinkedIn](https://www.linkedin.com/company/bydgoszcz-net-user-group/) | ✖ | [www](https://www.meetup.com/pl-PL/net-user-group-bydgoszcz/) | [blog](https://bdgnet.github.io/) | .NET User Group |
 
 ## 👥 Archiwum
 
