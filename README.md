@@ -63,3 +63,8 @@ Pusty wiersz do skopiowania: <br>
 ### 🙏 Podziękowania
 
 Z góry dziękuję wszystkim, którzy dorzucą coś od siebie!
+[szkoladotneta](https://github.com/szkoladotneta)
+[f-lapinski](https://github.com/f-lapinski)
+[MrD4rkne](https://github.com/MrD4rkne)
+[kurasolaf](https://github.com/kurasolaf)
+[rosamichal](https://github.com/rosamichal)
